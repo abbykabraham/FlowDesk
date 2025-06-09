@@ -6,7 +6,6 @@ An intelligent customer service chatbot system built using the Action-Based Conv
 This project uses the Action-Based Conversations Dataset (ABCD) from ASAPP Research:
 - Paper: [Action-Based Conversations Dataset: A Corpus for Building More In-Depth Task-Oriented Dialogue Systems](https://arxiv.org/abs/2104.00783)
 - Repository: [asappresearch/abcd](https://github.com/asappresearch/abcd)
-- Blog: [ASAPP Blog Post](https://www.asapp.com/blog/action-based-conversations-dataset/)
 
 ## Project Structure
 
